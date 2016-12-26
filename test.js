@@ -1,3 +1,2 @@
-<script type='text/javascript'>
-	alert('hello world');
-</script>
+alert('hello world');
+
